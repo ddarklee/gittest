@@ -1,11 +1,12 @@
 void main()
 {
    int a, b, c;
+    cout<<"This is test"<<endl;
 }
 
 int add(int a, int b)
 {
- return a+b;
+ return a1+b2;
 }
 
 int minus(int a, int b)
