@@ -1,7 +1,8 @@
 void main()
 {
    int a, b, c;
-    cout<<"This is test"<<endl;
+    
+   cout<<"This is test"<<endl;
 }
 
 int add(int a, int b)
@@ -12,4 +13,9 @@ int add(int a, int b)
 int minus(int a, int b)
 {
   return a-b;
+}
+
+int mul(int a, int b)
+{
+ return a*b;
 }
