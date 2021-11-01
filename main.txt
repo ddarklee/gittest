@@ -1,7 +1,7 @@
 void main()
 {
    int a, b, c;
-    
+
    cout<<"This is test2"<<endl;
 
    cout<<"This is TEST"<<endl;
@@ -9,9 +9,8 @@ void main()
 
 int add(int a, int b)
 {
- return a+b;
+  return a1+b2;
 }
-
 int minus(int a, int b)
 {
   return a-b;
