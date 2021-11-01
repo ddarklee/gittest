@@ -3,6 +3,8 @@ void main()
    int a, b, c;
     
    cout<<"This is test2"<<endl;
+
+   cout<<"This is TEST3"<<endl;
 }
 
 int add(int a, int b)
