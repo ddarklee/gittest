@@ -4,7 +4,7 @@ void main()
     
    cout<<"This is test2"<<endl;
 
-   cout<<"This is TEST3"<<endl;
+   cout<<"This is TEST"<<endl;
 }
 
 int add(int a, int b)
